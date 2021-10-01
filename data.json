@@ -73,9 +73,9 @@
 [1,"FBI8",1,"Drop and give me 50!",false,false,507288488789069,false,118],
 
 [1,"Q9",1,"The pressure exerted from the outside of the vein on the vessel is known as:",false,false,466188560851628,false,119],
-[1,"Q9A1",1,"Transmural pressure",false,false,270625622121560,false,120],
+[1,"Q9A1",1,"Tissue pressure",false,false,270625622121560,false,120],
 [1,"Q9A2",1,"Intraluminal pressure",false,false,203085820931493,false,121],
-[1,"Q9A3",1,"Tissue pressure",false,false,368612611146084,false,122],
+[1,"Q9A3",1,"Transmural pressure",false,false,368612611146084,false,122],
 [1,"Q9A4",1,"High blood pressure",false,false,117354364041925,false,123],
 [1,"Ans9",0,1,false,false,706357356256011,false,124],
 [1,"FBC9",1,"You got it!",false,false,730892998201860,false,125],
